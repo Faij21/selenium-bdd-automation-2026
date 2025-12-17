@@ -41,7 +41,7 @@ selenium-bdd-automation-2026/
 
 ## Technologies Used
 
-- **Java 11** - Programming Language
+- **Java 17** - Programming Language
 - **Selenium WebDriver 4.16.1** - Browser Automation
 - **Cucumber 7.15.0** - BDD Framework
 - **TestNG 7.8.0** - Test Execution Framework
